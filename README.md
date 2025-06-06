@@ -61,5 +61,5 @@ Ce projet a pour objectif d'analyser les ventes réalisées sur Amazon afin d'en
 ## 🚀 Pour exécuter ce projet
 1. Cloner le repo :
    ```bash
-   git clone https://github.com/ton-utilisateur/amazon-sales-analysis.git
+   git clone https://github.com/LouisD92/amazon-sales-analysis
 
